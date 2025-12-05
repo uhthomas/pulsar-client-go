@@ -15,10 +15,10 @@ require (
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/pierrec/lz4 v2.0.5+incompatible
 	github.com/pkg/errors v0.8.1
-	github.com/sirupsen/logrus v1.4.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.7.0
 	github.com/valyala/gozstd v1.4.1
 )
